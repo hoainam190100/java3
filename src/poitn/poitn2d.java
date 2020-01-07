@@ -42,7 +42,6 @@ public class poitn2d {
         arry[1] = y;
         return arry;
     }
-
     @Override
     public String toString() {
         return "poitn2d{" +
